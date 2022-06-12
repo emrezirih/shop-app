@@ -1,0 +1,15 @@
+export const white = "#fff";
+export const black = "#000";
+export const red = "tomato";
+export const gray = "#707070";
+export const gray2 = "#6E7384";
+export const gray3 = "#DADBE1";
+export const gray4 = "#595F73";
+export const darkBlue = "#131C3B";
+export const buttonColor = '#131C3B';
+export const disabledButtonColor = '#A1A4B1';
+export const btnTextBlue = "#315DEC"
+export const seperator = "#CACADB"
+export const inactiveTab = "#8c8f9b";
+export const success = "#459c96"
+export const activeInputBorder = "#8C8F9B";
