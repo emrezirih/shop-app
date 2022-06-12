@@ -1,5 +1,12 @@
 # shop-app
 Shop App
 
-## yarn install or npm install
-## cd ios && pod install
+```
+npm install or yarn install
+```
+```
+cd ios && pod install
+```
+```
+npx react-native run-android or npx react-native run-ios
+```
